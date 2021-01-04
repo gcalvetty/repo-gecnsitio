@@ -25,7 +25,7 @@ class SendMail extends Component
         'correo.required' => 'The Email Address cannot be empty.',
         'correo.email' => 'The Email Address format is not valid.',
         'correo.phone' => 'The Phone cannot be empty',
-        'correo.message' => 'The message cannot be empty'
+        'correo.message' => 'The message cannot be empty',
     ];
     
     
